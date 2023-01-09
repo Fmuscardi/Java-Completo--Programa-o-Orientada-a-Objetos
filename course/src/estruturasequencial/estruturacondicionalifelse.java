@@ -2,7 +2,7 @@ package estruturasequencial;
 
 import java.util.Scanner;
 
-public class EstruturaCondicionalIfElse {
+public class estruturacondicionalifelse {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
