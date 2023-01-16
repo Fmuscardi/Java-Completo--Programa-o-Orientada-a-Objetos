@@ -3,7 +3,7 @@ package memoriaarrayslistas.vetores.vetores2.application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import memoriaarrayslistas.vetores.vetores2.entities.Product;
+import memoriaarrayslistas.vetores.vetores2.model.entities.Product;
 
 public class Program {
 	public static void main(String[] args) {

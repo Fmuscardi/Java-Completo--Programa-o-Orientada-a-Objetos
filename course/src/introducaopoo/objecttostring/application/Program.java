@@ -3,7 +3,7 @@ package introducaopoo.objecttostring.application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import introducaopoo.objecttostring.entities.Product;
+import introducaopoo.objecttostring.model.entities.Product;
 public class Program {
 
 	public static void main(String[] args) {

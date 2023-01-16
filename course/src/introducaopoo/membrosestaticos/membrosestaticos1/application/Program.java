@@ -3,7 +3,7 @@ package introducaopoo.membrosestaticos.membrosestaticos1.application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import introducaopoo.membrosestaticos.membrosestaticos1.entities.Calculator;
+import introducaopoo.membrosestaticos.membrosestaticos1.model.entities.Calculator;
 
 public class Program {
 

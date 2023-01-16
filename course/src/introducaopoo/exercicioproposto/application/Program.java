@@ -8,7 +8,7 @@ package introducaopoo.exercicioproposto.application;
 
 import java.util.Locale;
 import java.util.Scanner;
-import introducaopoo.exercicioproposto.entities.CurrencyConverter;
+import introducaopoo.exercicioproposto.model.entities.CurrencyConverter;
 
 public class Program {
 	public static void main(String[] args) {
