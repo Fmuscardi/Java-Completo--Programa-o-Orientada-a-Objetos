@@ -1,4 +1,4 @@
-package outrostopicos;
+package outrostopicosbasicossobrejava;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package introducaojava;
+package estruturasequencial;
 
 
 public class Program1 {
